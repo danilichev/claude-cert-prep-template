@@ -42,7 +42,7 @@ Weighting note: D2 alone is a third of the exam, and D3 + D4 together are under 
 
 ## Official resources
 
-- CCDV-F Exam Guide v1.0 (July 2026): blueprint, sample questions, policies
+- CCDV-F Exam Guide v1.0 (July 2026): blueprint, 3 sample questions (illustrative, not from the live item bank), policies
 - Anthropic Partner Academy prep path: anthropic-partners.skilljar.com/path/claude-developer
 - Official Anthropic docs the guide names: Claude API, models, prompt engineering, Claude Code, Skills, MCP
 - Hands-on: build one Claude app that uses the API, one or more tools, basic prompt/context engineering, and simple security and eval practices (guide, section 7)

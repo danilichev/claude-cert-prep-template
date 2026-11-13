@@ -17,6 +17,8 @@ Source: official "Claude Certified Developer – Foundations Exam Guide", Versio
 
 Item format: multiple-choice and multiple-response; each item states how many responses to select.
 
+Other facts (guide sections 4, 5, 11, 14): no mandatory prerequisites; fee $125 USD; delivered by Pearson VUE (online proctored or test center); credential valid 12 months, renewed by a free non-proctored assessment; retake waits 14 / 30 / 90 days, max 4 attempts per rolling 12 months.
+
 ## Domains
 
 Weights must add up to 100%.
