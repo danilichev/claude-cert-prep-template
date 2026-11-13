@@ -15,7 +15,7 @@ Commit `progress/` in your own repo so your history is kept.
 | Id | Exam | Profile |
 | --- | --- | --- |
 | `ccar-f` | Claude Certified Architect – Foundations | ready |
-| `ccdv-f` | CCDV-F (developer) | not yet: run `/setup-exam ccdv-f` with the official exam guide |
+| `ccdv-f` | Claude Certified Developer – Foundations | ready |
 
 To add any other exam, run `/setup-exam <id>` and attach the official exam guide (PDF path or URL). Profiles are built only from the official guide, never from memory.
 
