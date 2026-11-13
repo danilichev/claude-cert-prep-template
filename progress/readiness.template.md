@@ -6,7 +6,7 @@ _Last updated: YYYY-MM-DD · Sessions: N · Questions answered: N_
 - **Estimated score:** NNN / <score_max> (pass <pass_mark>) [low data?]
 - **Verdict:** Not ready | Borderline | Drill-ready
 - **Practice bar (90% overall, ≥80% every domain):** met / not met: <what's missing>
-- **Booking rule:** two full timed mocks ≥ 90% (latest hard). Mocks done: N
+- **Booking rule:** two full timed mocks ≥ 90% and every domain ≥ 80% (latest hard). Mocks done: N · qualifying: N · latest qualifying hard: yes / no
 
 ## Domains
 | Domain | Weight | Answered | Correct | Rolling acc. | Recent (last 20) | Status |
@@ -29,6 +29,10 @@ _Last updated: YYYY-MM-DD · Sessions: N · Questions answered: N_
 ## Session log
 | # | Date | Score | <one column per domain ID> | Notes |
 | --- | --- | --- | --- | --- |
+
+## Mock log
+| # | Date | Mode | Raw | Est. score | Time | <one column per domain ID> | Counts |
+| --- | --- | --- | --- | --- | --- | --- | --- |
 
 ## Covered scenarios
 - <one-line stem summary> (D#)
